@@ -1,5 +1,7 @@
 # Chuck Sailer's next 30 days 
 
+July 14th to August 14th 2023.
+
 I'm a Senior Software Developer/Engineer/Architect with 27 years experience. Every 30 days I select an area of study. I do this to keep sharp and aligned with modern programming philosophies and approaches.
 
 This 30 day segment will focus on languages, frameworks, and math for computer science.
