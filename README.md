@@ -32,10 +32,10 @@ Sunday:
 - Discrete Math: Study for 1.5 hours
 - Resource: "Discrete Mathematics and Its Applications" book by Kenneth H. Rosen
 
-In addition to the weekly schedule, it's important to allocate time for practicing Data Structures and Algorithmic Problem Solving. You can dedicate one hour each day for these topics. Here are some recommended resources:
+In addition to the weekly schedule, it's important that I allocate time for practicing Data Structures and Algorithmic Problem Solving. I dedicate one hour each day for these topics. Here are some resources I prefer:
 
 - "Introduction to Algorithms" book by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
 - LeetCode (https://leetcode.com/) - A platform for practicing coding questions and algorithms
 - HackerRank (https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) - Offers challenges and tutorials on various programming topics, including data structures and algorithms.
 
-Remember, the key to mastery is consistent practice and implementation. Set realistic goals and gradually increase the complexity of the problems you tackle. Good luck with your studies!
+The key to mastery is consistent practice and implementation. These are realistic goals and I gradually increase the complexity of the problems I tackle.
