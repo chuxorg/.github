@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-I'm Chuck Sailer, a software developer since 1996. A lot has changed over the years especially my waistline. I created **chuxorg** on Github to organize pet projects and to share some of my development experience with anyone
+I'm <a href="https://chucksailer.com">Chuck Sailer</a>, a software developer since 1996. A lot has changed over the years especially my waistline. I created **chuxorg** on Github to organize pet projects and to share some of my development experience with anyone
 who may care. 
 
 I work on many types of things using **Go**, **Python**, **Javascript***, ***Typescript***. Feel free to steal my code and I hope you
